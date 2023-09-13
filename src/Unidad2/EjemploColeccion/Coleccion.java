@@ -15,7 +15,7 @@ public class Coleccion {
         
         ArrayList<String> listaNombres = new ArrayList<>();
         listaNombres.add("Juan");
-        listaNombres.add("Matías");
+        listaNombres.add("Matías"); //no hagan nada!
         
     }
     
