@@ -95,6 +95,7 @@ public class Cancion {
         System.out.println("Cancion: " + this.getTitulo());
         System.out.println("Artista: " + this.getArtista());
         System.out.println("Duracion: " + minutos+":"+segundos);
+        System.out.println("**********************");
     }
     
     public String obtenerTipoCancion()
