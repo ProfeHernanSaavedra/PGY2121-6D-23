@@ -35,7 +35,7 @@ public class Principal {
         arroz.comentarios("BUEEENNAA");
         helado.comentarios("rico!!! ");
         
-        
+        arroz.listar();
     }
     
 }
